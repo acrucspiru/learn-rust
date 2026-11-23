@@ -1,0 +1,12 @@
+# Rust build artifacts
+**/target/
+
+# Cargo lockfile is intentionally not committed in this learning repo;
+# run `cargo build` to regenerate.
+**/Cargo.lock
+
+# Editor / OS junk
+*.swp
+.DS_Store
+.idea/
+.vscode/
